@@ -1,5 +1,6 @@
 # Linux on HP ZBook Studio
-![license badge](https://img.shields.io/License-MIT-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This is a small collection of tools to help make the HP ZBook Studio work better
 with Linux. Also, some manuals for problems I encountered are available in the 
 sub-folders, so if you encounter an issue you won't have to do all the 
@@ -13,10 +14,12 @@ bottom of this file. More items may be added in the future, or maybe not at all.
 A full list of everything provided:
 
 - Trackpad
+  
   A tiny Python script (could also be done in `bash`, but I'm experienced with
   Python) to enable and disable the Trackpad. This is meant to be bound to a 
   keyboard shortcut, to make up for the loss of double-tap-to-disable.
 - Bluetooth
+  
   Two small guides with sources describing problems with Bluetooth. Most 
   information on this topic was out-dated for Ubuntu 17.10, so I tried lots
   of things to make it work.
