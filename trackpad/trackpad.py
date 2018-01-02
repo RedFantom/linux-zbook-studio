@@ -1,6 +1,6 @@
 """
 Author: RedFantom
-License: None
+License: MIT
 Copyright (C) 2018 RedFantom
 
 Simple Python script to turn off  the Trackpad on a HP Zbook Studio device.
